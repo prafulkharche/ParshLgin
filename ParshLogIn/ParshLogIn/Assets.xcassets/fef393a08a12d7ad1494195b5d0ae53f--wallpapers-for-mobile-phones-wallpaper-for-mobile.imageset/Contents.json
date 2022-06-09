@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "fef393a08a12d7ad1494195b5d0ae53f--wallpapers-for-mobile-phones-wallpaper-for-mobile@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "fef393a08a12d7ad1494195b5d0ae53f--wallpapers-for-mobile-phones-wallpaper-for-mobile@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "fef393a08a12d7ad1494195b5d0ae53f--wallpapers-for-mobile-phones-wallpaper-for-mobile@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
