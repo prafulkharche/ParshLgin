@@ -1,2 +1,2 @@
-# ParshLgin
+# ParshLgoin
 loginScreen
